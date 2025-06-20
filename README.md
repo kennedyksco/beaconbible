@@ -53,7 +53,7 @@ If you encounter persistent issues, please reach out to us (see "Support & Feedb
 We're committed to making BeaconBible the best possible Bible study tool. Your feedback is invaluable!
 •	Report Bugs / Request Features: Please open an issue on our GitHub Issues page. While we don't share source code here, this is the easiest way to track issues and feature requests.
 •	General Inquiries / Support:
-o	Email: mhangokennedyksco@gmail.com (Replace with your actual email)
+o	Email: mhangokennedyksco@gmail.com 
 o	Website: [#]
 📜 License
 BeaconBible is distributed under the MIT License.
